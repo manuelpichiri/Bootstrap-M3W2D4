@@ -1,0 +1,53 @@
+.bilbo {
+  background-image: url(https://images.unsplash.com/photo-1503614472-8c93d56e92ce?q=80&w=1411&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 1000px;
+}
+.prova {
+  width: 850px;
+  height: 1000px;
+}
+.immagine {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+}
+
+.card-bottom {
+  background-color: orange;
+}
+
+.card-summer {
+  background: #833ab4;
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(253, 29, 29, 1) 50%,
+    rgba(252, 176, 69, 1) 100%
+  );
+}
+
+.section-summer {
+  background: #d2aa58;
+}
+
+.div-img {
+  width: 66%;
+}
+
+.description-offer {
+  width: 33%;
+}
+
+.description-container {
+  width: 200px;
+}
+
+#footer-link-container a {
+  text-decoration: none;
+}
